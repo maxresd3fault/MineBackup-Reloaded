@@ -1,0 +1,13 @@
+name: MineBackup-Reloaded
+main: alexoft.Minebackup.MineBackup
+author: ThisIsAreku, maxresdefault
+version: 0.4.4_R02
+description: Auto-backup your world(s) !
+commands:
+  minebackup:
+    description: The one stop shop for MineBackup!
+    usage: |
+      /minebackup - Run a backup
+      /minebackup status - Show how many backups are stored
+      /minebackup version - Display the current version
+      /minebackup reload - Reload the config file and restart the plugin
